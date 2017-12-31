@@ -1,0 +1,2 @@
+# word-guessing-game
+This hangman-like game allows the user to guess a word by guessing letters. The program displays blanks to the user that correspond to each of the letters in the given input word. Every 5 seconds that the user does not guess a new letter, a signal clears the screen and fills in an unknown letter. Additionally, if the user hits Ctrl-Z, the program will display one of the unknown letters as a hint to the user, but not the location of the letter. 
